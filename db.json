@@ -1,0 +1,130 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Arroz Prato Fino",
+      "image": "https://static.paodeacucar.com/img/uploads/1/750/584750.png",
+      "quantity": 35,
+      "code": "Nemo enim ipsam voluptatem quia voluptas",
+      "categories": ["alimento", "arroz"],
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Feijão kicaldo",
+      "image": "https://hiperideal.vteximg.com.br/arquivos/ids/189112-292-292/165096.jpg?v=637528167673770000",
+      "quantity": 40,
+      "code": "Sed ut perspiciatis unde omnis iste natus error sit",
+      "categories": ["alimento", "feijão"],
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "Macarrão Renata",
+      "image": "https://static.clubeextra.com.br/img/uploads/1/263/650263.png",
+      "quantity": 33,
+      "code": "Excepteur sint occaecat cupidatat non proident",
+      "categories": ["alimento", "macarrão"],
+      "status": true
+      },
+    {
+      "id": 4,
+      "name": "Leite Ninho",
+      "image": "https://saudefortaleza.com.br/wp-content/uploads/2016/04/756_873-300x300.jpg",
+      "quantity": 43,
+      "code": "Laudantium, totam rem aperiam, eaque ipsa quae ab",
+      "categories": ["alimento", "leite"],
+      "status": true
+    },
+    {
+      "id": 5,
+      "name": "Ferrari 488",
+      "image": "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202203/20220307/ferrari-488-gtb-3.9-v8-turbo-gasolina-f1dct-wmimagem10523146368.jpg?s=fill&w=1920&h=1440&q=75",
+      "quantity": 1,
+      "code": "Laudantium, totam rem aperiam, eaque ipsa quae ab",
+      "categories": ["automóvel", "esportivo"],
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "Ferrari LaFerrari",
+      "image": "https://www.webmotors.com.br/wp-content/uploads/2022/03/05073111/274254595_124992900074713_5257104948953150194_n.jpg",
+      "quantity": 1,
+      "code": "Nemo enim ipsam voluptatem quia voluptas",
+      "categories": ["automóvel", "esportivo"],
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "Audi R8",
+      "image": "https://static.kbb.com.br/Uploads/ResearchTools/News/2649/946acb7c-8732-4caa-aa8a-703b52843106_1365x1024.jpg",
+      "quantity": 1,
+      "code": "Nemo enim ipsam voluptatem quia voluptas",
+      "categories": ["automóvel", "esportivo"],
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "Lamborghini Aventador",
+      "image": "https://cdn.motor1.com/images/mgl/4JyZA/s3/lamborghini-aventador-lp-780-4-ultimae.webp",
+      "quantity": 1,
+      "code": "Nemo enim ipsam voluptatem quia voluptas",
+      "categories": ["automóvel", "esportivo"],
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "Lamborghini Huracan",
+      "image": "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202204/20220429/lamborghini-huracan-5.2-v10-gasolina-lp-5802-ldf-wmimagem0946004388.jpg?s=fill&w=552&h=414&q=60",
+      "quantity": 1,
+      "code": "Nemo enim ipsam voluptatem quia voluptas",
+      "categories": ["automóvel", "esportivo"],
+      "status": true
+    },
+    {
+      "id": 10,
+      "name": "Lamborghini Veneno",
+      "image": "https://i0.wp.com/asphalt9.info/wp-content/uploads/2020/05/Lamborghini-Veneno-1.jpg?resize=750%2C415&ssl=1",
+      "quantity": 1,
+      "code": "Nemo enim ipsam voluptatem quia voluptas",
+      "categories": ["automóvel", "esportivo"],
+      "status": true
+    },
+    {
+      "id": 11,
+      "name": "CBR 1000RR",
+      "image": "https://motonewsbrasil.com/wp-content/uploads/2021/09/honda-cbr-1000rr-r-fireblade-sp-2022-brasil-1-800x445.jpg",
+      "quantity": 1,
+      "code": "Nemo enim ipsam voluptatem quia voluptas",
+      "categories": ["moto", "esportivo"],
+      "status": true
+    },
+    {
+      "id": 12,
+      "name": "GSXR 1000",
+      "image": "https://media.motociclismoonline.com.br/uploads/2021/07/GSX-R1000R-4-motociclismoonline.jpg",
+      "quantity": 1,
+      "code": "Nemo enim ipsam voluptatem quia voluptas",
+      "categories": ["moto", "esportivo"],
+      "status": true
+    },
+    {
+      "id": 13,
+      "name": "Ninja 1000",
+      "image": "https://kawasaki.m3parts.com.br/arquivos/155_aab2bb2a654ab214c865ca708aaaeb9890737958.jpg",
+      "quantity": 1,
+      "code": "Nemo enim ipsam voluptatem quia voluptas",
+      "categories": ["moto", "esportivo"],
+      "status": true
+    },
+    {
+      "id": 14,
+      "name": "YZF-R1",
+      "image": "https://portallubes.com.br/wp-content/uploads/2019/07/YZF-R1-4-1024x683.jpg",
+      "quantity": 1,
+      "code": "Nemo enim ipsam voluptatem quia voluptas",
+      "categories": ["moto", "esportivo"],
+      "status": true
+    }
+  ]
+}
